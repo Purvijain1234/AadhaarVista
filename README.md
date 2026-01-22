@@ -100,14 +100,7 @@ An interactive **Power BI dashboard** translates analytical insights into action
 
 These KPIs clearly show that **update activities far exceed new enrolments**, highlighting the operational shift toward Aadhaar lifecycle management.
 
-### 📊 Dashboard Visuals
-- KPI cards for high-level monitoring  
-- Pie chart showing composition of enrolments vs updates  
-- State-wise stacked bar chart (demographic vs biometric updates)  
-- Geographical map of India highlighting high-activity regions  
-- Age-wise enrolment bar chart  
-- District-level update pressure analysis  
-- Time-series line chart showing trends over time  
+### 📊 Dashboard
 
 📌 The dashboard enables **interactive exploration across states, districts, and time periods**.
 
@@ -139,10 +132,9 @@ A detailed project report is included, covering:
 
 ## 🛠 Tech Stack
 
-- **Python** (Pandas, NumPy, Matplotlib)  
+- **Python** (Pandas, ScikitLearn, Matplotlib, Seaborn)  
 - **Jupyter Notebook**  
 - **Microsoft Power BI**  
-- **Git & GitHub**
 
 ---
 
@@ -155,29 +147,14 @@ A detailed project report is included, covering:
 
 ---
 
-## 🚀 Future Scope
-
-- Real-time UIDAI data integration  
-- District-level infrastructure optimization  
-- State-level forecasting models  
-- Cloud-hosted dashboards for live monitoring  
-- Automated data pipelines  
-
----
 
 ## 👩‍💻 Author
 
 **Purvi Jain**  
 B.Tech (Artificial Intelligence)  
-UIDAI Data Hackathon 2026 Participant  
+LinkedIn: linkedin.com/in/purvi-jain-315683326
 
 ---
 
-## ⭐ Acknowledgements
-
-- Unique Identification Authority of India (UIDAI)  
-- UIDAI Data Hackathon 2026 Organizing Team  
-
----
 
 📌 *This repository is part of the **UIDAI Data Hackathon 2026** submission.*
