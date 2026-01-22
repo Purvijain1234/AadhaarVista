@@ -102,6 +102,8 @@ These KPIs clearly show that **update activities far exceed new enrolments**, hi
 
 ### 📊 Dashboard
 
+<img width="966" height="548" alt="Image" src="https://github.com/user-attachments/assets/481463ef-ed13-4899-ba1c-36d961144c66" />
+
 📌 The dashboard enables **interactive exploration across states, districts, and time periods**.
 
 ---
