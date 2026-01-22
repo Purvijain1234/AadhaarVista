@@ -1,4 +1,4 @@
-# 🆔 AadhaarVista  
+# AadhaarVista  
 ## Aadhaar Enrolment & Update Intelligence  
 ### UIDAI Data Hackathon 2026
 
@@ -120,7 +120,7 @@ A detailed project report is included, covering:
 - Dashboard design & KPI interpretation  
 - Results, outcomes, and future scope  
 
-📁 Available in the **`docs/`** folder.
+📁 **document:**`UIDAI DATA HACKATHON 2026 (1).pdf`
 
 ---
 
