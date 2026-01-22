@@ -71,7 +71,27 @@ EDA is performed using **Python (Jupyter Notebook)** to understand:
 - Monthly and quarterly aggregation  
 - Correlation analysis using heatmaps  
 - State-wise & district-wise comparisons  
-- Heatmap-based regional trend analysis  
+- Heatmap-based regional trend analysis
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a9deed2d-450c-4b59-aec0-6c95334827c7" width="260" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/7143ce9e-0db8-44f8-96db-961112f33378" width="260" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d5330b86-3ec7-458a-b973-f4ce01b51a65" width="260" height="180"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3ea1c6c4-4e52-48fb-b45e-efecaaa93eef" width="260" height="180"/>
+    </td>
+  </tr>
+</table>
+
 
 📓 **Notebook:** `Uidai_eda.ipynb`
 
