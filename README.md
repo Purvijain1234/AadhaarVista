@@ -68,18 +68,18 @@ EDA is performed using **Python (Jupyter Notebook)** to understand:
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/a9deed2d-450c-4b59-aec0-6c95334827c7" width="260" height="180"/>
+      <img src="https://github.com/user-attachments/assets/a9deed2d-450c-4b59-aec0-6c95334827c7" width="300" height="180"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7143ce9e-0db8-44f8-96db-961112f33378" width="260" height="180"/>
+      <img src="https://github.com/user-attachments/assets/7143ce9e-0db8-44f8-96db-961112f33378" width="300" height="180"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/d5330b86-3ec7-458a-b973-f4ce01b51a65" width="260" height="180"/>
+      <img src="https://github.com/user-attachments/assets/d5330b86-3ec7-458a-b973-f4ce01b51a65" width="300" height="180"/>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/3ea1c6c4-4e52-48fb-b45e-efecaaa93eef" width="260" height="180"/>
+      <img src="https://github.com/user-attachments/assets/3ea1c6c4-4e52-48fb-b45e-efecaaa93eef" width="300" height="180"/>
     </td>
   </tr>
 </table>
@@ -96,7 +96,7 @@ To analyze temporal behaviour:
 - Trend analysis is performed for Aadhaar enrolments (18+ age group)  
 - Linear regression–based short-term forecasting is applied
 
-<img width="1197" height="498" alt="Image" src="https://github.com/user-attachments/assets/7547a4d9-0fe4-4771-ae84-e52849b58580" />
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/7547a4d9-0fe4-4771-ae84-e52849b58580" />
 
 📌 Forecasting is used **only for exploratory trend interpretation**, not long-term prediction.
 
@@ -116,7 +116,7 @@ These KPIs clearly show that **update activities far exceed new enrolments**, hi
 
 ### 📊 Dashboard
 
-<img width="966" height="548" alt="Image" src="https://github.com/user-attachments/assets/481463ef-ed13-4899-ba1c-36d961144c66" />
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/481463ef-ed13-4899-ba1c-36d961144c66" />
 
 📌 The dashboard enables **interactive exploration across states, districts, and time periods**.
 
