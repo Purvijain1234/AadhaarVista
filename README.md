@@ -82,7 +82,9 @@ EDA is performed using **Python (Jupyter Notebook)** to understand:
 To analyze temporal behaviour:
 - Daily data is aggregated to monthly level  
 - Trend analysis is performed for Aadhaar enrolments (18+ age group)  
-- Linear regression–based short-term forecasting is applied  
+- Linear regression–based short-term forecasting is applied
+
+<img width="1197" height="498" alt="Image" src="https://github.com/user-attachments/assets/7547a4d9-0fe4-4771-ae84-e52849b58580" />
 
 📌 Forecasting is used **only for exploratory trend interpretation**, not long-term prediction.
 
