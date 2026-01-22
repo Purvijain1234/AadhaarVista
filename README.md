@@ -41,20 +41,12 @@ The datasets are provided by **UIDAI** exclusively for the **UIDAI Data Hackatho
 - Aadhaar Demographic Update Data  
 - Aadhaar Biometric Update Data  
 
-### ⏱ Time Period
-- **01 April 2025 – 31 December 2025**
-
-### 📍 Granularity
-- State-level  
-- District-level  
 
 ### 🔑 Key Fields
 - Date  
 - State, District, Pincode  
 - Age-group-wise enrolment counts  
 - Age-group-wise demographic & biometric update counts  
-
-> ⚠️ No personally identifiable information (PII) is used.
 
 ---
 
